@@ -1,0 +1,29 @@
+{
+  "name": "cmt",
+  "version": "1.0.0",
+  "description": "Character Management Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gambor27/Character-Management-Tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gambor27/Character-Management-Tool/issues"
+  },
+  "homepage": "https://github.com/Gambor27/Character-Management-Tool#readme",
+  "dependencies": {
+    "@babel/core": "^7.24.1",
+    "@babel/preset-env": "^7.24.1",
+    "@babel/preset-react": "^7.24.1",
+    "babel-loader": "^9.1.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
